@@ -6,7 +6,7 @@ https://www.google.com/foobar/
 > Welcome to foobar version 53-22-g00853404-beta (2017-06-15-22:15+0000)
 
 Only for educational usage.  
-Please, do not use my code to solve the contest. It is not sportive.
+Please, do not use my code to solve the contest. It is not fair.
 
 [My blog post about participation]()
 
