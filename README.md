@@ -1,5 +1,7 @@
 # Google foobar  
 
+![Up for a challenge?](up_for_a_challenge.png)
+
 https://www.google.com/foobar/  
 > Welcome to foobar version 53-22-g00853404-beta (2017-06-15-22:15+0000)
 
