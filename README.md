@@ -1,6 +1,7 @@
 #Google foobar
 
 Only for educational usage.
+Please, do not use my code to solve the contest. It is not sportive.
 
 [Blog post]()
 
