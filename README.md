@@ -8,7 +8,7 @@ https://www.google.com/foobar/
 Only for educational usage.  
 Please, do not use my code to solve the contest. It is not fair.
 
-[My blog post about participation]()
+[Blog post about my participation](https://nkapliev.org/blog/post/google-foo.bar/)
 
 ## The Journal of Adventures  
 
